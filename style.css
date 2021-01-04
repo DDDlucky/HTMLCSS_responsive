@@ -83,6 +83,8 @@ footer {
     padding: 10px;
     position: relative;
     background-color: #eee;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
   .step-box:last-child {
@@ -121,5 +123,9 @@ footer {
 
   .title {
     margin: 15px 0 5px;
+  }
+
+  .step-d {
+    margin-bottom: 20px;
   }
 }
